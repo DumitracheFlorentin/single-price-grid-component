@@ -2,7 +2,7 @@
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
-## Single Price Grid Component
+## Single Price Grid Page
 
 - This design is a page where information is presented about a product, its usefulness, but also the price paid monthly. If the customer agrees with all the conditions, he can subscribe using the button at the bottom of the page.
 
